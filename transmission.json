@@ -616,7 +616,7 @@
       "name": "ESPN4 Brasil",
       "country": "Brazil",
       "flag": "🇧🇷",
-      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-4-ar.png",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ee/espn-4-us.svg",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium85/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -993,7 +993,7 @@
       "name": "Canal+ France",
       "country": "France",
       "flag": "🇫🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/canal-plus-fr.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium121/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -2356,7 +2356,7 @@
       "name": "RTE 1",
       "country": "Ireland",
       "flag": "🇮🇪",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/rr/rte-one-ie.svg",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium364/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -2421,7 +2421,7 @@
       "name": "Fox Cricket",
       "country": "Australia",
       "flag": "🇦🇺",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ff/fox-cricket-us-au.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium369/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4215,7 +4215,7 @@
       "name": "18+ (Player-07)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.pngg",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium507/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4679,32 +4679,6 @@
       "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/one2-il.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium543/mono.m3u8",
-        "origin": "https://newembededplay.xyz",
-        "referer": "https://newembededplay.xyz/",
-        "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "id": 544,
-      "name": "Yes Movies Kids Israel",
-      "country": "Israel",
-      "flag": "🇮🇱",
-      "logoUrl": "",
-      "hlsInfo": {
-        "url": "https://zekonew.iosplayer.ru/zeko/premium544/mono.m3u8",
-        "origin": "https://newembededplay.xyz",
-        "referer": "https://newembededplay.xyz/",
-        "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "id": 545,
-      "name": "Yes Movies Comedy Israel",
-      "country": "Israel",
-      "flag": "🇮🇱",
-      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-movies-kids-il.png",
-      "hlsInfo": {
-        "url": "https://zekonew.iosplayer.ru/zeko/premium545/mono.m3u8",
         "origin": "https://newembededplay.xyz",
         "referer": "https://newembededplay.xyz/",
         "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
@@ -5963,7 +5937,7 @@
       "name": "Nicktoons",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nicktoons-us.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium649/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5976,7 +5950,7 @@
       "name": "TeenNick",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/tt/teen_nick_us.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium650/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5989,7 +5963,7 @@
       "name": "Destination America",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/destination_america_us.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium651/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6002,7 +5976,7 @@
       "name": "Disney JR",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/disney-junior-us.svg",
       "hlsInfo": {
         "url": "https://ddh2new.iosplayer.ru/ddh2/premium652/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6015,7 +5989,7 @@
       "name": "POP TV USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/pp/pop-tv-east-us.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium653/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6028,7 +6002,7 @@
       "name": "MY9TV USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ww/wwor-tv-us-nj.svg",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium654/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6041,7 +6015,7 @@
       "name": "WETV USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ww/we-tv-us.svg",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium655/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6054,7 +6028,7 @@
       "name": "IFC TV USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ii/ifc-us.svg",
       "hlsInfo": {
         "url": "https://ddh2new.iosplayer.ru/ddh2/premium656/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6067,7 +6041,7 @@
       "name": "Discovery Family",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/discovery_family_us.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium657/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6080,7 +6054,7 @@
       "name": "Sundance TV",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sundance_tv_us.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium658/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6093,7 +6067,7 @@
       "name": "VICE TV",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/vv/vice-tv-us.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium659/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6106,7 +6080,7 @@
       "name": "TV ONE USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/tt/tv-one-global-pk.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium660/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6119,7 +6093,7 @@
       "name": "Motor Trend",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/mm/motor-trend-it.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium661/mono.m3u8",
         "origin": "https://newembededplay.xyz",
