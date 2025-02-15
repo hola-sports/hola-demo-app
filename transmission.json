@@ -1,10 +1,10 @@
 [
   {
     "id": 31,
-    "name": "TNT Sports 1 UK",
+    "name": "TNT Sports 1",
     "country": "United Kingdom",
     "flag": "\ud83c\uddec\ud83c\udde7",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
     "hlsInfo": {
       "url": "https://ddh2new.iosplayer.ru/ddh2/premium31/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -14,10 +14,10 @@
   },
   {
     "id": 32,
-    "name": "TNT Sports 2 UK",
+    "name": "TNT Sports 2",
     "country": "United Kingdom",
     "flag": "\ud83c\uddec\ud83c\udde7",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
     "hlsInfo": {
       "url": "https://ddh2new.iosplayer.ru/ddh2/premium32/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -27,10 +27,10 @@
   },
   {
     "id": 33,
-    "name": "TNT Sports 3 UK",
+    "name": "TNT Sports 3",
     "country": "United Kingdom",
     "flag": "\ud83c\uddec\ud83c\udde7",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
     "hlsInfo": {
       "url": "https://ddh2new.iosplayer.ru/ddh2/premium33/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -43,7 +43,7 @@
     "name": "TNT Sports 4 UK",
     "country": "United Kingdom",
     "flag": "\ud83c\uddec\ud83c\udde7",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",
     "hlsInfo": {
       "url": "https://ddh2new.iosplayer.ru/ddh2/premium34/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -56,7 +56,7 @@
     "name": "Sky Sports Football UK",
     "country": "United Kingdom",
     "flag": "\ud83c\uddec\ud83c\udde7",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-uk.png",
     "hlsInfo": {
       "url": "https://zekonew.iosplayer.ru/zeko/premium35/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -69,7 +69,7 @@
     "name": "Sky Sports Arena UK",
     "country": "United Kingdom",
     "flag": "\ud83c\uddec\ud83c\udde7",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-arena-uk.png",
     "hlsInfo": {
       "url": "https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -82,7 +82,7 @@
     "name": "Sky Sports Action UK",
     "country": "United Kingdom",
     "flag": "\ud83c\uddec\ud83c\udde7",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-uk.png",
     "hlsInfo": {
       "url": "https://ddh2new.iosplayer.ru/ddh2/premium37/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -95,7 +95,7 @@
     "name": "Sky Sports Main Event",
     "country": "United Kingdom",
     "flag": "\ud83c\uddec\ud83c\udde7",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-uk.png",
     "hlsInfo": {
       "url": "https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -108,7 +108,7 @@
     "name": "Fox Sports 1 USA",
     "country": "United States",
     "flag": "\ud83c\uddfa\ud83c\uddf8",
-    "logoUrl": "",
+    "logoUrl": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png",
     "hlsInfo": {
       "url": "https://zekonew.iosplayer.ru/zeko/premium39/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -134,7 +134,7 @@
     "name": "EuroSport 1 UK",
     "country": "United Kingdom",
     "flag": "\ud83c\uddec\ud83c\udde7",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/eurosport-1-uk.png",
     "hlsInfo": {
       "url": "https://windnew.iosplayer.ru/wind/premium41/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -147,7 +147,7 @@
     "name": "EuroSport 2 UK",
     "country": "United Kingdom",
     "flag": "\ud83c\uddec\ud83c\udde7",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/eurosport-2-uk.png",
     "hlsInfo": {
       "url": "https://windnew.iosplayer.ru/wind/premium42/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -160,7 +160,7 @@
     "name": "DAZN LaLiga 2",
     "country": "Spain",
     "flag": "\ud83c\uddea\ud83c\uddf8",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png",
     "hlsInfo": {
       "url": "https://windnew.iosplayer.ru/wind/premium43/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -173,7 +173,7 @@
     "name": "ESPN USA",
     "country": "United States",
     "flag": "\ud83c\uddfa\ud83c\uddf8",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",
     "hlsInfo": {
       "url": "https://ddh2new.iosplayer.ru/ddh2/premium44/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
@@ -186,7 +186,7 @@
     "name": "ESPN2 USA",
     "country": "United States",
     "flag": "\ud83c\uddfa\ud83c\uddf8",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png",
     "hlsInfo": {
       "url": "https://windnew.iosplayer.ru/wind/premium45/mono.m3u8",
       "origin": "https://newembededplay.xyz/",
