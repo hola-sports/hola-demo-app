@@ -3643,7 +3643,7 @@
       "name": "Canal+ Foot France",
       "country": "France",
       "flag": "🇫🇷",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-foot-fr.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium463/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3656,7 +3656,7 @@
       "name": "Canal+ Sport360",
       "country": "France",
       "flag": "🇫🇷",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-360-pl.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium464/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3669,7 +3669,7 @@
       "name": "Diema Sport Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium465/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3682,7 +3682,7 @@
       "name": "Diema Sport 2 Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium466/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3695,7 +3695,7 @@
       "name": "Diema Sport 3 Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium467/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3708,7 +3708,7 @@
       "name": "Nova Sport Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-sport-bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium468/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3721,7 +3721,7 @@
       "name": "Eurosport 1 Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/slovakia/nova-sport-1-sk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium469/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3734,7 +3734,7 @@
       "name": "Eurosport 2 Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/slovakia/nova-sport-2-sk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium470/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3747,7 +3747,7 @@
       "name": "Ring Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium471/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3760,7 +3760,7 @@
       "name": "Max Sport 1 Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-1-bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium472/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3773,7 +3773,7 @@
       "name": "Max Sport 2 Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-2-bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium473/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3786,7 +3786,7 @@
       "name": "Max Sport 3 Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-3-bg.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium474/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3799,7 +3799,7 @@
       "name": "Max Sport 4 Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-4-bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium475/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3812,7 +3812,7 @@
       "name": "BNT 1 Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-1-bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium476/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3825,7 +3825,7 @@
       "name": "BNT 2 Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-2-bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium477/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3838,7 +3838,7 @@
       "name": "BNT 3 Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-3-bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium478/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3851,7 +3851,7 @@
       "name": "bTV Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium479/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3864,7 +3864,7 @@
       "name": "Nova TV Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-sport-bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium480/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3877,7 +3877,7 @@
       "name": "bTV Action Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-action-bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium481/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3890,7 +3890,7 @@
       "name": "Diema Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium482/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3903,7 +3903,7 @@
       "name": "FOX HD Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/fox-hd-it.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium483/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3916,7 +3916,7 @@
       "name": "bTV Lady Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-lady-bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium484/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3929,7 +3929,7 @@
       "name": "Diema Family Bulgaria",
       "country": "Bulgaria",
       "flag": "🇧🇬",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium485/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3942,7 +3942,7 @@
       "name": "Canal+ Sport 1 Afrique",
       "country": "Africa",
       "flag": "🌍",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium486/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3955,7 +3955,7 @@
       "name": "Canal+ Sport 2 Afrique",
       "country": "Africa",
       "flag": "🌍",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium487/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3967,14 +3967,21 @@
       "id": 488,
       "name": "Canal+ Sport 3 Afrique",
       "country": "Africa",
-      "flag": "🌍"
+      "flag": "🌍",
+       "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png",
+      "hlsInfo": {
+        "url": "https://ddy6new.iosplayer.ru/ddy6/premium488/mono.m3u8",
+        "origin": "https://newembededplay.xyz",
+        "referer": "https://newembededplay.xyz/",
+        "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
     },
     {
       "id": 489,
       "name": "Canal+ Sport 4 Afrique",
       "country": "Africa",
       "flag": "🌍",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium489/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3987,7 +3994,7 @@
       "name": "Canal+ Sport 5 Afrique",
       "country": "Africa",
       "flag": "🌍",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium490/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3999,20 +4006,34 @@
       "id": 491,
       "name": "beIN SPORTS Australia 1",
       "country": "Australia",
-      "flag": "🇦🇺"
+      "flag": "🇦🇺",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-1-us.png",
+      "hlsInfo": {
+        "url": "https://ddy6new.iosplayer.ru/ddy6/premium491/mono.m3u8",
+        "origin": "https://newembededplay.xyz",
+        "referer": "https://newembededplay.xyz/",
+        "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
     },
     {
       "id": 492,
       "name": "beIN SPORTS Australia 2",
       "country": "Australia",
-      "flag": "🇦🇺"
+      "flag": "🇦🇺",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-2-us.png",
+      "hlsInfo": {
+        "url": "https://ddy6new.iosplayer.ru/ddy6/premium492/mono.m3u8",
+        "origin": "https://newembededplay.xyz",
+        "referer": "https://newembededplay.xyz/",
+        "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
     },
     {
       "id": 493,
       "name": "beIN SPORTS Australia 3",
       "country": "Australia",
       "flag": "🇦🇺",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-3-us.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium493/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4025,7 +4046,7 @@
       "name": "beIN Sports MAX 4 France",
       "country": "France",
       "flag": "🇫🇷",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-max-mea.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium494/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4038,7 +4059,7 @@
       "name": "beIN Sports MAX 5 France",
       "country": "France",
       "flag": "🇫🇷",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-max-mea.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium495/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4051,7 +4072,7 @@
       "name": "beIN Sports MAX 6 France",
       "country": "France",
       "flag": "🇫🇷",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-max-mea.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium496/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4064,7 +4085,7 @@
       "name": "beIN Sports MAX 7 France",
       "country": "France",
       "flag": "🇫🇷",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-max-mea.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium497/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4077,7 +4098,7 @@
       "name": "beIN Sports MAX 8 France",
       "country": "France",
       "flag": "🇫🇷",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-8-max-mea.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium498/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4090,7 +4111,7 @@
       "name": "beIN Sports MAX 9 France",
       "country": "France",
       "flag": "🇫🇷",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-9-max-mea.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium499/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4103,7 +4124,7 @@
       "name": "beIN Sports MAX 10 France",
       "country": "France",
       "flag": "🇫🇷",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-10-max-mea.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium500/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4116,7 +4137,7 @@
       "name": "18+ (Player-01)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium501/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4129,7 +4150,7 @@
       "name": "18+ (Player-02)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium502/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4142,7 +4163,7 @@
       "name": "18+ (Player-03)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium503/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4155,7 +4176,7 @@
       "name": "18+ (Player-04)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium504/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4168,7 +4189,7 @@
       "name": "18+ (Player-05)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium505/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4181,7 +4202,7 @@
       "name": "18+ (Player-06)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium506/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4194,7 +4215,7 @@
       "name": "18+ (Player-07)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.pngg",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium507/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4207,7 +4228,7 @@
       "name": "18+ (Player-08)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium508/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4220,7 +4241,7 @@
       "name": "18+ (Player-09)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium509/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4233,7 +4254,7 @@
       "name": "18+ (Player-10)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium510/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4246,7 +4267,7 @@
       "name": "18+ (Player-11)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium511/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4259,7 +4280,7 @@
       "name": "18+ (Player-12)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium512/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4272,7 +4293,7 @@
       "name": "18+ (Player-13)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium513/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4285,7 +4306,7 @@
       "name": "18+ (Player-14)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium514/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4298,7 +4319,7 @@
       "name": "18+ (Player-15)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium515/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4311,7 +4332,7 @@
       "name": "18+ (Player-16)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium516/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4324,7 +4345,7 @@
       "name": "18+ (Player-17)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium517/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4337,7 +4358,7 @@
       "name": "18+ (Player-18)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium518/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4350,7 +4371,7 @@
       "name": "18+ (Player-19)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium519/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4363,7 +4384,7 @@
       "name": "18+ (Player-20)",
       "country": "Unknown",
       "flag": "🏳️",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/adult-channel-1-rs.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium520/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4376,7 +4397,7 @@
       "name": "#Vamos Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium521/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4389,7 +4410,7 @@
       "name": "Barca TV Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/barca-tv-es.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium522/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4402,7 +4423,7 @@
       "name": "Real Madrid TV Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/real-madrid-tv-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium523/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4415,7 +4436,7 @@
       "name": "EuroSport 1 Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-europe/arena-sport/arena-sport-1-eu.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium524/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4428,7 +4449,7 @@
       "name": "EuroSport 2 Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-europe/arena-sport/arena-sport-2-eu.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4441,7 +4462,7 @@
       "name": "Movistar Deportes 3 Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-europe/arena-sport/arena-sport-3-eu.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium526/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4454,7 +4475,7 @@
       "name": "Movistar Deportes 4 Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-europe/arena-sport/arena-sport-4-eu.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium527/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4467,7 +4488,7 @@
       "name": "Movistar Golf Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium528/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4480,7 +4501,7 @@
       "name": "Teledeporte Spain (TDP)",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium529/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4493,7 +4514,7 @@
       "name": "GOL PLAY Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/gol-play-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium530/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4506,7 +4527,7 @@
       "name": "Antena 3 Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium531/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4519,7 +4540,7 @@
       "name": "Telecinco Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/telecinco-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium532/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4532,7 +4553,7 @@
       "name": "TVE La 1 Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-hd-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium533/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4545,7 +4566,7 @@
       "name": "La Sexta Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/lasexta-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium534/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4558,7 +4579,7 @@
       "name": "Cuatro Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cuatro-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium535/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4571,7 +4592,7 @@
       "name": "TVE La 2 Spain",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-hd-es.pn",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium536/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4584,7 +4605,7 @@
       "name": "DAZN F1 ES",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium537/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4597,7 +4618,7 @@
       "name": "DAZN LaLiga",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium538/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4610,7 +4631,7 @@
       "name": "LaLiga SmartBank TV",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-smartbank-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium539/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4623,7 +4644,7 @@
       "name": "Canal 11 Portugal",
       "country": "Portugal",
       "flag": "🇵🇹",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal11-pt.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4636,7 +4657,7 @@
       "name": "ONE 1 HD Israel",
       "country": "Israel",
       "flag": "🇮🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/one-il.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium541/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4655,7 +4676,7 @@
       "name": "Yes Movies Action Israel",
       "country": "Israel",
       "flag": "🇮🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/one2-il.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium543/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4681,7 +4702,7 @@
       "name": "Yes Movies Comedy Israel",
       "country": "Israel",
       "flag": "🇮🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-movies-kids-il.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium545/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4690,69 +4711,13 @@
       }
     },
     {
-      "id": 546,
-      "name": "Channel 9 Israel",
-      "country": "Israel",
-      "flag": "🇮🇱"
-    },
-    {
-      "id": 547,
-      "name": "Channel 10 Israel",
-      "country": "Israel",
-      "flag": "🇮🇱"
-    },
-    {
-      "id": 548,
-      "name": "Channel 11 Israel",
-      "country": "Israel",
-      "flag": "🇮🇱"
-    },
-    {
-      "id": 549,
-      "name": "Channel 12 Israel",
-      "country": "Israel",
-      "flag": "🇮🇱"
-    },
-    {
       "id": 550,
       "name": "Viaplay Sports 2 UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/viaplay-sports-2-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium550/mono.m3u8",
-        "origin": "https://newembededplay.xyz",
-        "referer": "https://newembededplay.xyz/",
-        "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "id": 551,
-      "name": "Channel 13 Israel",
-      "country": "Israel",
-      "flag": "🇮🇱"
-    },
-    {
-      "id": 552,
-      "name": "Channel 14 Israel",
-      "country": "Israel",
-      "flag": "🇮🇱",
-      "logoUrl": "",
-      "hlsInfo": {
-        "url": "https://zekonew.iosplayer.ru/zeko/premium552/mono.m3u8",
-        "origin": "https://newembededplay.xyz",
-        "referer": "https://newembededplay.xyz/",
-        "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "id": 553,
-      "name": "HOT3 Israel",
-      "country": "Israel",
-      "flag": "🇮🇱",
-      "logoUrl": "",
-      "hlsInfo": {
-        "url": "https://ddy6new.iosplayer.ru/ddy6/premium553/mono.m3u8",
         "origin": "https://newembededplay.xyz",
         "referer": "https://newembededplay.xyz/",
         "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
@@ -4763,7 +4728,7 @@
       "name": "Sky Sports Racing UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-racing-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium554/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4776,7 +4741,7 @@
       "name": "Racing Tv UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/racing-tv-uk.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium555/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4789,7 +4754,7 @@
       "name": "Sky Sport Top Event DE",
       "country": "Germany",
       "flag": "🇩🇪",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-de.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium556/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4802,7 +4767,7 @@
       "name": "Sky Sport Mix DE",
       "country": "Germany",
       "flag": "🇩🇪",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-de.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium557/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4815,7 +4780,7 @@
       "name": "Sky Sport Bundesliga 1 HD",
       "country": "Germany",
       "flag": "🇩🇪",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium558/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4828,7 +4793,7 @@
       "name": "Sky Sport Austria 1 HD",
       "country": "Austria",
       "flag": "🇦🇹",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-austria-de.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium559/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4841,7 +4806,7 @@
       "name": "TVP1 Poland",
       "country": "Poland",
       "flag": "🇵🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp1-pl.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium560/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4854,7 +4819,7 @@
       "name": "TVP2 Poland",
       "country": "Poland",
       "flag": "🇵🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp2-pl.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium561/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4867,7 +4832,7 @@
       "name": "Polsat Poland",
       "country": "Poland",
       "flag": "🇵🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-pl.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium562/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4880,7 +4845,7 @@
       "name": "Motowizja Poland",
       "country": "Poland",
       "flag": "🇵🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/motowizja-pl.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium563/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4893,7 +4858,7 @@
       "name": "Polsat Film Poland",
       "country": "Poland",
       "flag": "🇵🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-film-pl.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium564/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4906,7 +4871,7 @@
       "name": "TVN HD Poland",
       "country": "Poland",
       "flag": "🇵🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvn-pl.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium565/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4919,7 +4884,7 @@
       "name": "Canal+ Premium Poland",
       "country": "Poland",
       "flag": "🇵🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-premium-pl.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium566/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4932,7 +4897,7 @@
       "name": "Canal+ Family Poland",
       "country": "Poland",
       "flag": "🇵🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/hd/canal-plus-family-hd-fr.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium567/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4945,7 +4910,7 @@
       "name": "FilmBox Premium Poland",
       "country": "Poland",
       "flag": "🇵🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/filmbox-premium-pl.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium568/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4958,7 +4923,7 @@
       "name": "HBO Poland",
       "country": "Poland",
       "flag": "🇵🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/hbo-pl.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium569/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4971,7 +4936,7 @@
       "name": "Canal+ Seriale Poland",
       "country": "Poland",
       "flag": "🇵🇱",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-seriale-pl.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium570/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4984,7 +4949,7 @@
       "name": "SportDigital Fussball",
       "country": "Germany",
       "flag": "🇩🇪",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sportdigital-fussball-de.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4997,7 +4962,7 @@
       "name": "SuperSport MaXimo 1",
       "country": "South Africa",
       "flag": "🇿🇦",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-maximo1-za.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium572/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5010,7 +4975,7 @@
       "name": "Match Premier Russia",
       "country": "Russia",
       "flag": "🇷🇺",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-premier-ru.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium573/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5023,7 +4988,7 @@
       "name": "Sky Sports Golf Italy",
       "country": "Italy",
       "flag": "🇮🇹",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-golf-it.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium574/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5036,7 +5001,7 @@
       "name": "Sky Sport MotoGP Italy",
       "country": "Italy",
       "flag": "🇮🇹",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-motogp-it.png",
       "hlsInfo": {
         "url": "https://ddh2new.iosplayer.ru/ddh2/premium575/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5049,7 +5014,7 @@
       "name": "Sky Sport Tennis Italy",
       "country": "Italy",
       "flag": "🇮🇹",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-tennis-it.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium576/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5062,7 +5027,7 @@
       "name": "Sky Sport F1 Italy",
       "country": "Italy",
       "flag": "🇮🇹",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-f1-it.png",
       "hlsInfo": {
         "url": "https://ddh2new.iosplayer.ru/ddh2/premium577/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5075,7 +5040,7 @@
       "name": "BeIN Sports HD Qatar",
       "country": "Qatar",
       "flag": "🇶🇦",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-hd-int.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium578/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5088,7 +5053,7 @@
       "name": "Arena Sport 1 BiH",
       "country": "Bosnia and Herzegovina",
       "flag": "🇧🇦",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-1-rs.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium579/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5101,7 +5066,7 @@
       "name": "Arena Sport 4 Croatia",
       "country": "Croatia",
       "flag": "🇭🇷",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-4-rs.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium580/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5114,7 +5079,7 @@
       "name": "Arena Sport 4 Serbia",
       "country": "Serbia",
       "flag": "🇷🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-4-rs.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium581/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5127,7 +5092,7 @@
       "name": "Nova Sport Serbia",
       "country": "Serbia",
       "flag": "🇷🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/nova-sport-hr.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium582/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5139,32 +5104,60 @@
       "id": 583,
       "name": "Prima Sport 1",
       "country": "Romania",
-      "flag": "🇷🇴"
+      "flag": "🇷🇴",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-1-ro.png",
+      "hlsInfo": {
+        "url": "https://wikinew.iosplayer.ru/wiki/premium583/mono.m3u8",
+        "origin": "https://newembededplay.xyz",
+        "referer": "https://newembededplay.xyz/",
+        "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
     },
     {
       "id": 584,
       "name": "Prima Sport 2",
       "country": "Romania",
-      "flag": "🇷🇴"
+      "flag": "🇷🇴",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-2-ro.png",
+      "hlsInfo": {
+        "url": "https://wikinew.iosplayer.ru/wiki/premium584/mono.m3u8",
+        "origin": "https://newembededplay.xyz",
+        "referer": "https://newembededplay.xyz/",
+        "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
     },
     {
       "id": 585,
       "name": "Prima Sport 3",
       "country": "Romania",
-      "flag": "🇷🇴"
+      "flag": "🇷🇴",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-3-ro.png",
+      "hlsInfo": {
+        "url": "https://wikinew.iosplayer.ru/wiki/premium585/mono.m3u8",
+        "origin": "https://newembededplay.xyz",
+        "referer": "https://newembededplay.xyz/",
+        "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
     },
     {
       "id": 586,
       "name": "Prima Sport 4",
       "country": "Romania",
-      "flag": "🇷🇴"
+      "flag": "🇷🇴",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-4-ro.png",
+      "hlsInfo": {
+        "url": "https://wikinew.iosplayer.ru/wiki/premium586/mono.m3u8",
+        "origin": "https://newembededplay.xyz",
+        "referer": "https://newembededplay.xyz/",
+        "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
     },
     {
       "id": 587,
       "name": "Sky Sport Select NZ",
       "country": "New Zealand",
       "flag": "🇳🇿",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-select-nz.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium587/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5177,7 +5170,7 @@
       "name": "Sky Sport 1 NZ",
       "country": "New Zealand",
       "flag": "🇳🇿",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-1-nz.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium588/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5190,7 +5183,7 @@
       "name": "Sky Sport 2 NZ",
       "country": "New Zealand",
       "flag": "🇳🇿",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-2-nz.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium589/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5203,7 +5196,7 @@
       "name": "Sky Sport 3 NZ",
       "country": "New Zealand",
       "flag": "🇳🇿",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-3-nz.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium590/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5216,7 +5209,7 @@
       "name": "Sky Sport 4 NZ",
       "country": "New Zealand",
       "flag": "🇳🇿",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-4-nz.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium591/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5229,7 +5222,7 @@
       "name": "Sky Sport 5 NZ",
       "country": "New Zealand",
       "flag": "🇳🇿",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-5-nz.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium592/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5242,7 +5235,7 @@
       "name": "Sky Sport 6 NZ",
       "country": "New Zealand",
       "flag": "🇳🇿",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-6-nz.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium593/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5255,7 +5248,7 @@
       "name": "Sky Sport 7 NZ",
       "country": "New Zealand",
       "flag": "🇳🇿",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-7-nz.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium594/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5268,7 +5261,7 @@
       "name": "Sky Sport 8 NZ",
       "country": "New Zealand",
       "flag": "🇳🇿",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-8-nz.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5281,7 +5274,7 @@
       "name": "Sky Sport 9 NZ",
       "country": "New Zealand",
       "flag": "🇳🇿",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-9-nz.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium596/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5294,7 +5287,7 @@
       "name": "Viaplay Xtra UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/viaplay-xtra-uk.png",
       "hlsInfo": {
         "url": "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5307,7 +5300,7 @@
       "name": "Willow XTRA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/willow-xtra-us.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium598/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5320,7 +5313,7 @@
       "name": "Nova Sports Premier League Greece",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nova-sports-premier-league-gr.svg",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium599/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5333,7 +5326,7 @@
       "name": "Abu Dhabi Sports 1 UAE",
       "country": "United Arab Emirates",
       "flag": "🇦🇪",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium600/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5346,7 +5339,7 @@
       "name": "Abu Dhabi Sports 2 UAE",
       "country": "United Arab Emirates",
       "flag": "🇦🇪",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium601/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5359,7 +5352,7 @@
       "name": "Smithsonian Channel",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/smithsonian-channel-ca.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium601/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5372,7 +5365,7 @@
       "name": "CTV Canada",
       "country": "Canada",
       "flag": "🇨🇦",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-ca.png",
       "hlsInfo": {
         "url": "https://ddh2new.iosplayer.ru/ddh2/premium602/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5385,7 +5378,7 @@
       "name": "Dubai Sports 1 UAE",
       "country": "United Arab Emirates",
       "flag": "🇦🇪",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-sports-tv-ae.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium604/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5398,7 +5391,7 @@
       "name": "Dubai Sports 2 UAE",
       "country": "United Arab Emirates",
       "flag": "🇦🇪",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-sports-tv-ae.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium605/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5411,7 +5404,7 @@
       "name": "Dubai Sports 3 UAE",
       "country": "United Arab Emirates",
       "flag": "🇦🇪",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-sports-tv-ae.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium606/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5424,7 +5417,7 @@
       "name": "Dubai Racing 1 UAE",
       "country": "United Arab Emirates",
       "flag": "🇦🇪",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-sports-tv-ae.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium607/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5433,17 +5426,11 @@
       }
     },
     {
-      "id": 608,
-      "name": "Dubai Racing 2 UAE",
-      "country": "United Arab Emirates",
-      "flag": "🇦🇪"
-    },
-    {
       "id": 609,
       "name": "Abu Dhabi Sports 1 Premium",
       "country": "United Arab Emirates",
       "flag": "🇦🇪",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-sports-tv-ae.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium609/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5456,7 +5443,7 @@
       "name": "Yas TV UAE",
       "country": "United Arab Emirates",
       "flag": "🇦🇪",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/yas-tv-ae.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium609/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5469,7 +5456,7 @@
       "name": "Abu Dhabi Sports 2 Premium",
       "country": "United Arab Emirates",
       "flag": "🇦🇪",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium610/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5482,7 +5469,7 @@
       "name": "OnTime Sports",
       "country": "Egypt",
       "flag": "🇪🇬",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/oo/ontime-sports-eg.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium611/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5495,7 +5482,7 @@
       "name": "OnTime Sports 2",
       "country": "Egypt",
       "flag": "🇪🇬",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/oo/ontime-sports-eg.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium612/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5508,7 +5495,7 @@
       "name": "Newsmax USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/newsmax-tv-us.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium613/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5521,7 +5508,7 @@
       "name": "SSC Sport 1",
       "country": "Saudi Arabia",
       "flag": "🇸🇦",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium614/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5534,7 +5521,7 @@
       "name": "SSC Sport 2",
       "country": "Saudi Arabia",
       "flag": "🇸🇦",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/ssc-2-sa.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium615/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5547,7 +5534,7 @@
       "name": "SSC Sport 3",
       "country": "Saudi Arabia",
       "flag": "🇸🇦",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/ssc-3-sa.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium616/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5560,7 +5547,7 @@
       "name": "SSC Sport 4",
       "country": "Saudi Arabia",
       "flag": "🇸🇦",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/ssc-4-sa.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium617/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5573,7 +5560,7 @@
       "name": "SSC Sport 5",
       "country": "Saudi Arabia",
       "flag": "🇸🇦",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/ssc-5-sa.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium618/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5586,7 +5573,7 @@
       "name": "SSC Sport Extra 1",
       "country": "Saudi Arabia",
       "flag": "🇸🇦",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/ssc-extra-1-sa.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium619/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5599,7 +5586,7 @@
       "name": "SSC Sport Extra 2",
       "country": "Saudi Arabia",
       "flag": "🇸🇦",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/ssc-extra-2-sa.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium620/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5612,7 +5599,7 @@
       "name": "SSC Sport Extra 3",
       "country": "Saudi Arabia",
       "flag": "🇸🇦",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/ssc-extra-3-sa.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium621/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5625,7 +5612,7 @@
       "name": "Cosmote Sport 1 HD",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_1_hd.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium622/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5638,7 +5625,7 @@
       "name": "Cosmote Sport 2 HD",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_2_hd.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium623/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5651,7 +5638,7 @@
       "name": "Cosmote Sport 3 HD",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_3_hd.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium624/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5664,7 +5651,7 @@
       "name": "Cosmote Sport 4 HD",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_4_hd.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium625/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5677,7 +5664,7 @@
       "name": "Cosmote Sport 5 HD",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_5_hd.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium626/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5690,7 +5677,7 @@
       "name": "Cosmote Sport 6 HD",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_6_hd.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium627/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5703,7 +5690,7 @@
       "name": "Cosmote Sport 7 HD",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_7_hd.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium628/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5716,7 +5703,7 @@
       "name": "Cosmote Sport 8 HD",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_8_hd.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium629/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5729,7 +5716,7 @@
       "name": "Cosmote Sport 9 HD",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_9_hd.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium630/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5742,7 +5729,7 @@
       "name": "Nova Sports 1 Greece",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nova-sports-1-gr.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium631/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5755,7 +5742,7 @@
       "name": "Nova Sports 2 Greece",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nova-sports-2-gr.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium632/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5768,7 +5755,7 @@
       "name": "Nova Sports 3 Greece",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nova-sports-3-gr.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium633/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5781,7 +5768,7 @@
       "name": "Nova Sports 4 Greece",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nova-sports-4-gr.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium634/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5794,7 +5781,7 @@
       "name": "Nova Sports 5 Greece",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nova-sports-5-gr.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium635/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5807,7 +5794,7 @@
       "name": "Nova Sports 6 Greece",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nova-sports-6-gr.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium636/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5820,7 +5807,7 @@
       "name": "Nova Sports Start Greece",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nova-sports-start-gr.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium637/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5833,7 +5820,7 @@
       "name": "Nova Sports Prime Greece",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nova-sports-prime-gr.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium638/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5846,7 +5833,7 @@
       "name": "Nova Sports News Greece",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nova-sports-news-gr.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium639/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5859,7 +5846,7 @@
       "name": "Sport1+ Germany",
       "country": "Germany",
       "flag": "🇩🇪",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sport1_de.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium640/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5872,7 +5859,7 @@
       "name": "Sport1 Germany",
       "country": "Germany",
       "flag": "🇩🇪",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sport1_de.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium641/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5885,7 +5872,7 @@
       "name": "TNT Sports HD Chile",
       "country": "Chile",
       "flag": "🇨🇱",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/tt/tnt-sports-argentina-us-ar.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium642/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5898,7 +5885,7 @@
       "name": "FOX Deportes USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ff/fox_deportes_us.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium643/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5911,7 +5898,7 @@
       "name": "TCM USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tcm-us.png",
       "hlsInfo": {
         "url": "https://ddh2new.iosplayer.ru/ddh2/premium644/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5924,7 +5911,7 @@
       "name": "L'Equipe France",
       "country": "France",
       "flag": "🇫🇷",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/lequipe-fr.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium645/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5937,7 +5924,7 @@
       "name": "MAVTV USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mav-tv-us.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium646/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5950,7 +5937,7 @@
       "name": "CMT USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cmt-us.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium647/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -5963,7 +5950,7 @@
       "name": "Boomerang",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/boomerang-ca.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium648/mono.m3u8",
         "origin": "https://newembededplay.xyz",
