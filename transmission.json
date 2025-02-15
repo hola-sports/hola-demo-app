@@ -6106,7 +6106,7 @@
       "name": "METV USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/mm/me_tv_us.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium662/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6119,7 +6119,7 @@
       "name": "NHL Network USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nhl-network-us.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium663/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6132,7 +6132,7 @@
       "name": "ACC Network USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/aa/acc-network-us.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium664/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6145,7 +6145,7 @@
       "name": "FYI",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ff/fyi_us.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium665/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6158,7 +6158,7 @@
       "name": "Nick Music",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/nn/nick_us_music.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium666/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6171,7 +6171,7 @@
       "name": "Longhorn Network USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ee/espn_longhorn_network_us.png",
       "hlsInfo": {
         "url": "https://ddh2new.iosplayer.ru/ddh2/premium667/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6184,7 +6184,7 @@
       "name": "Universal Kids USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/uu/universal-kids-us.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium668/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6197,7 +6197,7 @@
       "name": "Crime+ Investigation USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/crime-plus-investigation-us.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium669/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6210,7 +6210,7 @@
       "name": "S4C UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/s4c-uk.svg",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium670/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6223,7 +6223,7 @@
       "name": "Sky Cinema Premiere UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.svg",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium671/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6236,7 +6236,7 @@
       "name": "Sky Cinema Select UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-cinema-select-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium672/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6249,7 +6249,7 @@
       "name": "Sky Cinema Hits UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-cinema-hits-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium673/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6262,7 +6262,7 @@
       "name": "Sky Cinema Greats UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-cinema-greats-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium674/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6275,7 +6275,7 @@
       "name": "Sky Cinema Animation UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-cinema-animation-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium675/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6288,7 +6288,7 @@
       "name": "Sky Cinema Family UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium676/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6301,7 +6301,7 @@
       "name": "Sky Cinema Action UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium677/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6314,7 +6314,7 @@
       "name": "The Hallmark",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/hh/hallmark-channel-us.svg",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium678/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6327,7 +6327,7 @@
       "name": "Sky Cinema Thriller UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-cinema-thriller-uk.svg",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium679/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6340,7 +6340,7 @@
       "name": "The Hallmark",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/hh/hallmark-channel-us.svg",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium680/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6353,7 +6353,7 @@
       "name": "Sky Cinema Sci-Fi Horror UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium681/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6366,7 +6366,7 @@
       "name": "Sky Showcase UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-showcase-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium682/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6379,7 +6379,7 @@
       "name": "Sky Arts UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-arts-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium683/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6392,7 +6392,7 @@
       "name": "Sky Comedy UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-comedy-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium684/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6405,7 +6405,7 @@
       "name": "Sky Crime",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-crime-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium685/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6418,7 +6418,7 @@
       "name": "Showtime SHOxBET USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/showtime_east.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium685/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6431,7 +6431,7 @@
       "name": "Sky History",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-history-uk.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium686/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6444,7 +6444,7 @@
       "name": "Gold UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/sky-crime-uk.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium687/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6457,7 +6457,7 @@
       "name": "Film4 UK",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/uu/uandgold-uk.svg",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium688/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6483,7 +6483,7 @@
       "name": "HBO Comedy USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/hh/hbo_comedy_us.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium690/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6496,7 +6496,7 @@
       "name": "HBO Family USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/hh/hbo_family_us.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium691/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6509,7 +6509,7 @@
       "name": "HBO Latino USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/hh/hbo_latino_us.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium692/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6522,7 +6522,7 @@
       "name": "HBO Signature USA",
       "country": "United States",
       "flag": "🇺🇸",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/hh/hbo_signature_us.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium693/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6685,48 +6685,7 @@
         "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     },
-    {
-      "id": 708,
-      "name": "Tennis+ 9",
-      "country": "United States",
-      "flag": "🇺🇸"
-    },
-    {
-      "id": 709,
-      "name": "Tennis+ 10",
-      "country": "United States",
-      "flag": "🇺🇸"
-    },
-    {
-      "id": 710,
-      "name": "Tennis+ 11",
-      "country": "United States",
-      "flag": "🇺🇸"
-    },
-    {
-      "id": 711,
-      "name": "Tennis+ 12",
-      "country": "United States",
-      "flag": "🇺🇸"
-    },
-    {
-      "id": 712,
-      "name": "Tennis+ 13",
-      "country": "United States",
-      "flag": "🇺🇸"
-    },
-    {
-      "id": 713,
-      "name": "Tennis+ 14",
-      "country": "United States",
-      "flag": "🇺🇸"
-    },
-    {
-      "id": 714,
-      "name": "Tennis+ 15",
-      "country": "United States",
-      "flag": "🇺🇸"
-    },
+    
     {
       "id": 715,
       "name": "Cleo TV",
