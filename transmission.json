@@ -3242,7 +3242,7 @@
       "name": "Arena Sport 1 Croatia",
       "country": "Croatia",
       "flag": "🇭🇷",
-      "logoUrl": "https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-1-hr.png",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-1-rs.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium432/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3255,7 +3255,7 @@
       "name": "Arena Sport 2 Croatia",
       "country": "Croatia",
       "flag": "🇭🇷",
-      "logoUrl": "https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-2-hr.png",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-2-rs.png",
       "hlsInfo": {
         "url": "https://zekonew.iosplayer.ru/zeko/premium433/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -3268,7 +3268,7 @@
       "name": "Arena Sport 3 Croatia",
       "country": "Croatia",
       "flag": "🇭🇷",
-      "logoUrl": "https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-3-hr.png",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-3-rs.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium434/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4633,7 +4633,7 @@
       "name": "LaLiga SmartBank TV",
       "country": "Spain",
       "flag": "🇪🇸",
-      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-smartbank-es.png",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ll/laliga-tv-hypermotion-es.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium539/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -4666,12 +4666,6 @@
         "referer": "https://newembededplay.xyz/",
         "userAgents": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
-    },
-    {
-      "id": 542,
-      "name": "ONE 2 HD Israel",
-      "country": "Israel",
-      "flag": "🇮🇱"
     },
     {
       "id": 543,
@@ -5692,7 +5686,7 @@
       "name": "Cosmote Sport 9 HD",
       "country": "Greece",
       "flag": "🇬🇷",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_9_hd.png",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/cc/cosmote-sport-9-gr.png",
       "hlsInfo": {
         "url": "https://dokko1new.iosplayer.ru/dokko1/premium630/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6759,7 +6753,7 @@
       "name": "RTP 3 Portugal",
       "country": "Portugal",
       "flag": "🇵🇹",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/rr/rtp-3-pt.png",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/rr/rtp_3_pt.png",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium721/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6811,7 +6805,7 @@
       "name": "Arte DE",
       "country": "Germany",
       "flag": "🇩🇪",
-      "logoUrl": "",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/aa/arte-fr.svg",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium725/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6824,7 +6818,7 @@
       "name": "3sat DE",
       "country": "Germany",
       "flag": "🇩🇪",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/aa/arte-fr.svg",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/num/3sat-de.svg",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium726/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -6941,7 +6935,7 @@
       "name": "SWR DE",
       "country": "Germany",
       "flag": "🇩🇪",
-      "logoUrl": "https://www.lyngsat.com/logo/tv/ww/swr-fernsehen-de.svg",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/ss/swr-fernsehen-de.svg",
       "hlsInfo": {
         "url": "https://ddy6new.iosplayer.ru/ddy6/premium735/mono.m3u8",
         "origin": "https://newembededplay.xyz",
@@ -7825,7 +7819,7 @@
       "name": "FOX Sports 505 AU",
       "country": "Australia",
       "flag": "🇦🇺",
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/fox-sports-505-au.png",
       "hlsInfo": {
         "url": "https://windnew.iosplayer.ru/wind/premium823/mono.m3u8",
         "origin": "https://newembededplay.xyz",
